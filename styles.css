@@ -10,6 +10,3 @@ input{
 	color:red;
 	
 }
-input .invalid-feedback{
-	border:2px solid red;
-}
